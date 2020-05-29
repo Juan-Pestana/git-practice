@@ -1,3 +1,4 @@
 Name: Juan,
 Age: 37,
-Favorite food: Pollo
+Favorite food: Pollo con patatas,
+Dog: Iago,
